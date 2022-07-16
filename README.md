@@ -15,6 +15,9 @@ TRIBUCA ensures decentralized interoperability, openness, self-sovereignty, indi
 You are invited to a splendid playground that is our planet.
 
 Website: https://tribuca.io
+
 Twitter: https://twitter.com/tribuca_io
+
 Linkedin: https://www.linkedin.com/company/tribuca
+
 Medium: https://medium.com/@tribuca_io
